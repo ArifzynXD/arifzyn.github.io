@@ -37,19 +37,12 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Api Server || Skizo',
-      position: 'Creator',
-      from: 'April 2023',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Smk Sapala',
-      position: 'student',
-      from: '',
-      to: 'June 2020',
-      companyLink: '',
-    },
+      company: 'Embun Wangi',
+      position: 'employee',
+      from: 'Jun 2022',
+      to: '',
+      companyLink: 'https://xznsenpai.xyz',
+    }
   ],
   /* certifications: [
     {
@@ -59,7 +52,7 @@ const config = {
       link: 'https://example.com'
     },
   ], */
-  education: [
+  /*education: [
     {
       institution: 'Institution Name',
       degree: 'Degree',
@@ -72,7 +65,7 @@ const config = {
       from: '2012',
       to: '2014',
     },
-  ],
+  ],*/
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
