@@ -37,18 +37,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'tes',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Api Server || Skizo',
+      position: 'Creator',
+      from: 'April 2023',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Smk Sapala',
+      position: 'student',
+      from: '',
+      to: 'June 2020',
+      companyLink: '',
     },
   ],
   /* certifications: [
