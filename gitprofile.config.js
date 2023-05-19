@@ -41,7 +41,7 @@ const config = {
       position: 'employee',
       from: 'Jun 2022',
       to: '',
-      companyLink: 'https://xznsenpai.xyz',
+      companyLink: '',
     }
   ],
   /* certifications: [
@@ -70,19 +70,12 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Api Server || Skizo',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
+        'Api Gratis Unlimited Reques Tanpa Apikey dan Tanpa Login.',
+      imageUrl: 'https://xznsenpai.xyz/img/zainudin.jpg',
+      link: 'https://xznsenpai.xyz',
+    }
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
