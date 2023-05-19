@@ -38,9 +38,9 @@ const config = {
   experiences: [
     {
       company: 'Embun Wangi',
-      position: 'employee',
+      position: 'Employee',
       from: 'Jun 2022',
-      to: '',
+      to: 'Bontang',
       companyLink: '',
     }
   ],
