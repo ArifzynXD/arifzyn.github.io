@@ -73,7 +73,7 @@ const config = {
       description:
         'Fire Server with reliable performance, Free Unlimited Requests without login and apikey',
       imageUrl: 'https://xznsenpai.xyz/img/user.jpg',
-      link: 'https://xznsenpai.xyz',
+      link: 'https://xznsenpai.xyz', 
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
