@@ -51,29 +51,22 @@ const config = {
       link: 'https://example.com'
     },
   ], */
-  /*education: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],*/
-
+  education: [
+     {
+       institution: 'Smks Sapala',
+       degree: 'Student',
+       from: '2019',
+       to: '2022',
+    }
+  ],
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
       title: 'Api Server || Skizo',
       description:
-        'Fire Server with reliable performance, Free Unlimited Requests without login and apikey',
+        'Api Server dengan performa yang dapat diandalkan, Gratis Unlimited Request tanpa login dan apikey.',
       imageUrl: 'https://xznsenpai.xyz/img/user.jpg',
-      link: 'https://xznsenpai.xyz', 
+      link: 'https://xznsenpai.xyz',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
