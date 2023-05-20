@@ -71,7 +71,7 @@ const config = {
     {
       title: 'Api Server || Skizo',
       description:
-        'Unlimited Reques Tanpa Apikey dan Tanpa Login.',
+        'Layanan hosting berbiaya murah dengan performa yang dapat diandalkan.',
       imageUrl: 'https://xznsenpai.xyz/img/user.jpg',
       link: 'https://xznsenpai.xyz',
     }
@@ -91,7 +91,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
