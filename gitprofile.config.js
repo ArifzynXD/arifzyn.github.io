@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      '',
   },
   skills: [
     'Still Learning',
@@ -71,8 +71,8 @@ const config = {
     {
       title: 'Api Server || Skizo',
       description:
-        'Api Gratis Unlimited Reques Tanpa Apikey dan Tanpa Login.',
-      imageUrl: 'https://xznsenpai.xyz/img/zainudin.jpg',
+        'Unlimited Reques Tanpa Apikey dan Tanpa Login.',
+      imageUrl: 'https://xznsenpai.xyz/img/user.jpg',
       link: 'https://xznsenpai.xyz',
     }
   ],
