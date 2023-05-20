@@ -71,7 +71,7 @@ const config = {
     {
       title: 'Api Server || Skizo',
       description:
-        'Layanan hosting berbiaya murah dengan performa yang dapat diandalkan.',
+        'Fire Server with reliable performance, Free Unlimited Requests without login and apikey',
       imageUrl: 'https://xznsenpai.xyz/img/user.jpg',
       link: 'https://xznsenpai.xyz',
     }
